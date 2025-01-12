@@ -1,0 +1,23 @@
+
+		Curso de tecnologia e programação
+
+		Rua sao joao da barra numero 312
+		Telefone. 46464646654 
+		Email:sangiorgiovba@gmail.com
+
+==================================================================
+Nome Cliente: LLL
+tel no: 555
+Nota No. 2273339			Date: 02/12/2024
+==================================================================
+Nome_Prod			HSN	Qde		Preco	Disconto
+==================================================================
+        
+ SAPATOS MASCULINO			1	Rs.150.0	%.5
+==================================================================
+Total Vendas(A)				Rs.150.0
+Total Taxa(9%)				Rs.13.5
+Total Servico(9%)				Rs.13.5
+Total Bens_ser(18%)(B)				Rs.27.0
+Valor da fatura(A+B)			Rs.177.0 
+        

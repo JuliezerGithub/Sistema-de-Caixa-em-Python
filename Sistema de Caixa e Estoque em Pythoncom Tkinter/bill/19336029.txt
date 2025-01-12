@@ -1,0 +1,23 @@
+
+		Conffeitar - Confeitaria e Café
+
+		Avenida Dos Imigrantes, nº580
+		Telefone: (47) 9 9632-2030
+		Email: conffeitar@gmail.com
+
+=================================================================
+Nome Cliente: JULI
+tel no: 49586
+Nota No. 19336029			Date: 19/12/2024
+=================================================================
+Nome_Prod			Qde		Preco	Disconto
+=================================================================
+        
+ Buffet Livre Café Colonial			1	Rs.40.0	%.
+=================================================================
+Total Vendas(A)				Rs.40.0
+Total Taxa(9%)				Rs.3.6
+Total Servico(9%)				Rs.3.6
+Total Bens_ser(18%)(B)				Rs.7.2
+Valor da fatura(A+B)			Rs.47.2 
+        

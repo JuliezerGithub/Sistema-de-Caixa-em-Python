@@ -1,0 +1,23 @@
+
+		Curso de tecnologia e programação
+
+		Rua sao joao da barra numero 312
+		Telefone. 46464646654 
+		Email:sangiorgiovba@gmail.com
+
+=================================================================
+Nome Cliente: Juliezer
+tel no: 47996858478
+Nota No. 18355028			Date: 18/12/2024
+=================================================================
+Nome_Prod			HSN	Qde		Preco	Disconto
+=================================================================
+        
+ Bolo 30 pedaços			1	Rs.150.0	%.
+=================================================================
+Total Vendas(A)				Rs.150.0
+Total Taxa(9%)				Rs.13.5
+Total Servico(9%)				Rs.13.5
+Total Bens_ser(18%)(B)				Rs.27.0
+Valor da fatura(A+B)			Rs.177.0 
+        

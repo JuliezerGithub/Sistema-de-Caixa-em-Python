@@ -1,0 +1,23 @@
+
+		Curso de tecnologia e programação
+
+		Rua sao joao da barra numero 312
+		Telefone. 46464646654 
+		Email:sangiorgiovba@gmail.com
+
+=================================================================
+Nome Cliente: Alexandre
+tel no: 0
+Nota No. 18357830			Date: 18/12/2024
+=================================================================
+Nome_Prod			HSN	Qde		Preco	Disconto
+=================================================================
+        
+ Buffet Livre Café Colonial			5	Rs.200.0	%.
+=================================================================
+Total Vendas(A)				Rs.200.0
+Total Taxa(9%)				Rs.18.0
+Total Servico(9%)				Rs.18.0
+Total Bens_ser(18%)(B)				Rs.36.0
+Valor da fatura(A+B)			Rs.236.0 
+        

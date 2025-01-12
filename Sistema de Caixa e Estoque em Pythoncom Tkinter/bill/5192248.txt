@@ -1,0 +1,26 @@
+
+		Conffeitar - Confeitaria e Café
+
+		Avenida Dos Imigrantes, nº580
+		Telefone: (47) 9 9632-2030
+		Email: conffeitar@gmail.com
+
+=================================================================
+Nota No. 5192248			Data Impressão: 05/01/2025
+Nome Cliente: Juliezer da Silva
+tel no: 47996858478			Data Entrega:PY_VAR6
+Endereço: PY_VAR3
+nº:PY_VAR4			Bairro:PY_VAR5
+=================================================================
+Nome_Prod			Qde			Preço
+=================================================================
+        
+ Bolo 90 pdç			1	Rs.300.0	%.
+ Cento Coxinha			2	Rs.160.0	%.
+=================================================================
+Total Vendas(A)				Rs.460.0
+Total Taxa(9%)				Rs.41.4
+Total Servico(9%)				Rs.41.4
+Total Bens_ser(18%)(B)				Rs.82.8
+Valor da fatura(A+B)			Rs.542.8 
+        

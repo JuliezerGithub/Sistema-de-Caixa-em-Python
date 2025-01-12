@@ -1,0 +1,23 @@
+
+		Curso de tecnologia e programação
+
+		Rua sao joao da barra numero 312
+		Telefone. 46464646654 
+		Email:sangiorgiovba@gmail.com
+
+=================================================================
+Nome Cliente: PEDRO
+tel no: 313132
+Nota No. 2276841			Date: 02/12/2024
+=================================================================
+Nome_Prod			HSN	Qde		Preco	Disconto
+=================================================================
+        
+ CELULAR			10	Rs.1500.0	%.5
+=================================================================
+Total Vendas(A)				Rs.1500.0
+Total Taxa(9%)				Rs.135.0
+Total Servico(9%)				Rs.135.0
+Total Bens_ser(18%)(B)				Rs.270.0
+Valor da fatura(A+B)			Rs.1770.0 
+        
